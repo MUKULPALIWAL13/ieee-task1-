@@ -1,0 +1,98 @@
+$date
+	Sun Dec 29 15:06:14 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module dfftestbench $end
+$var wire 1 ! SO $end
+$var wire 1 " Q $end
+$var reg 1 # T $end
+$var reg 1 $ clk $end
+$scope module t1 $end
+$var wire 1 # T $end
+$var wire 1 $ clk $end
+$var wire 1 ! SO $end
+$var reg 1 " Q $end
+$scope module g3 $end
+$var wire 1 " A $end
+$var wire 1 % B $end
+$var wire 1 # sel $end
+$var wire 1 ! O $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+x#
+1"
+x!
+$end
+#2000
+1!
+0#
+#5000
+0!
+1#
+1$
+#10000
+1!
+0#
+0$
+#15000
+0!
+1#
+1$
+#20000
+1!
+0#
+0$
+#25000
+1$
+#30000
+0$
+#35000
+1$
+#40000
+0$
+#45000
+1$
+#50000
+0$
+#55000
+1$
+#60000
+0$
+#65000
+1$
+#70000
+0$
+#75000
+1$
+#80000
+0$
+#85000
+1$
+#90000
+0$
+#95000
+1$
+#100000
+0$
+#105000
+1$
+#110000
+0$
+#115000
+1$
+#120000
+0$

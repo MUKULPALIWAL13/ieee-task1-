@@ -1,0 +1,119 @@
+$date
+	Tue Dec 31 18:48:30 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_myshiftreg $end
+$var wire 4 ! Q [3:0] $end
+$var wire 1 " E $end
+$var reg 1 # A $end
+$var reg 1 $ clk $end
+$var reg 1 % clr $end
+$var reg 4 & data [3:0] $end
+$var reg 1 ' ena $end
+$var reg 1 ( load $end
+$scope module uut $end
+$var wire 1 # A $end
+$var wire 1 $ clk $end
+$var wire 1 % clr $end
+$var wire 4 ) data [3:0] $end
+$var wire 1 ' ena $end
+$var wire 1 ( load $end
+$var reg 1 * B $end
+$var reg 1 + C $end
+$var reg 1 , D $end
+$var reg 1 " E $end
+$var reg 4 - Q [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 -
+0,
+0+
+0*
+b0 )
+0(
+0'
+b0 &
+1%
+0$
+0#
+0"
+b0 !
+$end
+#5
+1$
+#10
+0$
+b1101 &
+b1101 )
+1(
+0%
+#15
+b1101 !
+b1101 -
+1$
+#20
+0$
+1#
+1'
+0(
+#25
+b1 !
+b1 -
+1*
+1$
+#30
+0$
+0#
+1'
+#35
+b10 !
+b10 -
+0*
+1+
+1$
+#40
+0$
+b1010 &
+b1010 )
+1(
+0'
+#45
+b1010 !
+b1010 -
+1$
+#50
+0$
+1#
+1'
+0(
+#55
+b101 !
+b101 -
+1*
+0+
+1,
+1$
+#60
+0,
+0*
+b0 !
+b0 -
+0$
+1%
+0'
+#65
+1$
+#70
+0$
+0%

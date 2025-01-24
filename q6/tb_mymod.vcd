@@ -1,0 +1,92 @@
+$date
+	Tue Dec 31 21:00:44 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_mymod $end
+$var wire 8 ! S [7:0] $end
+$var reg 8 " A [7:0] $end
+$var reg 8 # B [7:0] $end
+$scope module uut $end
+$var wire 8 $ A [7:0] $end
+$var wire 8 % B [7:0] $end
+$var reg 8 & S [7:0] $end
+$var reg 1 ' e $end
+$var reg 1 ( f $end
+$var reg 8 ) g [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 )
+0(
+0'
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#10
+bx !
+bx &
+b10101010 )
+b1010101 #
+b1010101 %
+b1010101 "
+b1010101 $
+#20
+b11111110 !
+b11111110 &
+1(
+1'
+b11111110 )
+b11111111 #
+b11111111 %
+b11111111 "
+b11111111 $
+#30
+bx !
+bx &
+b0 )
+b10000000 #
+b10000000 %
+b10000000 "
+b10000000 $
+#40
+0(
+0'
+b11111110 )
+b1111111 #
+b1111111 %
+b1111111 "
+b1111111 $
+#50
+b11000000 !
+b11000000 &
+b11000000 )
+1(
+b10000000 #
+b10000000 %
+b1000000 "
+b1000000 $
+#60
+b11111111 !
+b11111111 &
+0(
+1'
+b11111111 )
+b1111111 #
+b1111111 %
+b10000000 "
+b10000000 $
+#100
